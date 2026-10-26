@@ -1,0 +1,8 @@
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+vega_datasets>=0.9.0
+nbformat>=5.9.0
+nbclient>=0.10.0
